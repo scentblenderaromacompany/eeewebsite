@@ -1,0 +1,39 @@
+{
+  "name": "eternal-elegance-emporium",
+  "version": "1.0.0",
+  "description": "An elegant e-commerce platform for pre-owned jewelry.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "^3.0.0",
+    "prisma": "^4.0.0",
+    "@prisma/client": "^4.0.0",
+    "typescript": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.0",
+    "@types/node": "^16.0.0",
+    "eslint": "8.0.0",
+    "eslint-config-next": "latest"
+  },
+  "keywords": [
+    "jewelry",
+    "ecommerce",
+    "pre-owned",
+    "nextjs",
+    "tailwindcss"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "main": "next.config.js",
+  "directories": {
+    "lib": "lib"
+  }
+}
